@@ -1,0 +1,11 @@
+[package]
+name = "slope_field"
+version = "0.1.0"
+license = "CC0-1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+anyhow = { version = "1.0.70", default-features = false, features = ["std"] }
+chrono = { version = "0.4.24", default-features = false, features = ["clock"] }
+strsim = { version = "0.10.0", default-features = false }
