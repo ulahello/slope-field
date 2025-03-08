@@ -2,6 +2,8 @@
 
 Interactive shell that generates slope field visualizations for Gnuplot
 
+![Plot for sin(y) / x](./screenshot.png)
+
 ## Building & running
 
 Prerequisites:
